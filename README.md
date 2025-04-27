@@ -1,4 +1,3 @@
-# Job-Salary-Predictor
 # 💼 Job Salary Predictor
 
 Predict salaries based on job characteristics such as experience level, employment type, job title, remote work ratio, and location using Machine Learning!
